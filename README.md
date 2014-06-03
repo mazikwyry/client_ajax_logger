@@ -3,7 +3,7 @@ client_ajax_logger
 
 Sending client-side logs with ajax. Depends on [Console Proxy](https://github.com/bermi/console-proxy).
 
-**It's library agnostic.**
+**It's library-agnostic.**
 
 
 ## Usage
