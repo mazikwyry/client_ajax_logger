@@ -11,10 +11,8 @@ Sending client-side logs with ajax. Depends on [Console Proxy](https://github.co
 Download source and add those scripts at the top of your HTML document (as first two scripts):
 
 ```
-<script src="https://raw.github.com/bermi/console-proxy/master/dist/console-proxy.min.js" type="text/javascript"></script>
-<script src="client_ajax_logger.js" type="text/javascript"></script>
+<script src="path_to_js/console-proxy.min.js" type="text/javascript"></script>
+<script src="path_to_js/client_ajax_logger.js" type="text/javascript"></script>
 ```
-
-## Anthing else ?
 
 * Change endpoint url in code
