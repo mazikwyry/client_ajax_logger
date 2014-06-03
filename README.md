@@ -1,7 +1,7 @@
 client_ajax_logger
 ==================
 
-Sending client-side logs with ajax. Depends on [https://github.com/bermi/console-proxy](Console Proxy).
+Sending client-side logs with ajax. Depends on [Console Proxy](https://github.com/bermi/console-proxy).
 
 **It's library agnostic.**
 
@@ -13,7 +13,6 @@ Download source and add those scripts at the top of your HTML document (as first
 ```
 <script src="https://raw.github.com/bermi/console-proxy/master/dist/console-proxy.min.js" type="text/javascript"></script>
 <script src="client_ajax_logger.js" type="text/javascript"></script>
-
 ```
 
 ## Anthing else ?
